@@ -52,7 +52,7 @@ The data preparation process included:
 
 ---
 
-# Dashboard Analysis
+# Dashboards
 
 ## 1. Physical Activity Trends
 
