@@ -25,7 +25,7 @@ The objectives of this project were to:
 # Dataset
 
 - **Source:** Statistics Norway (SSB)
-- **Dataset:** Table 06181 – Lifestyle habits (per cent), by living habit, year and age
+- **Dataset:** Table 06181 – Lifestyle habits (percent), by living habit, year and age
 - **Format:** Excel (.xlsx)
 - **Data Type:** Public survey data
 
@@ -47,6 +47,9 @@ The data preparation process included:
 - Creating category fields
 - Creating a custom Age Order column for proper visualization sorting
 
+  ![Data Cleaning](Images/datacleaning_process.png)
+
+
 ---
 
 # Dashboard Analysis
@@ -62,7 +65,7 @@ Users can:
 - Explore long-term trends
 - View dynamic summary statistics
 
-*(Insert screenshot here)*
+![Physical Activity](Images/exercise_dashboard.png)
 
 ---
 
@@ -78,7 +81,7 @@ Users can compare:
 - Age-specific trends
 - Changes over time
 
-*(Insert screenshot here)*
+![BMI Dashboard](Images/bmi_dashboard.png)
 
 ---
 
