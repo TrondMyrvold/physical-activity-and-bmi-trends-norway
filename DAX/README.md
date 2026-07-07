@@ -1,4 +1,4 @@
-// This README shows how the DAX measurements was created in Power BI.
+// This README shows how the DAX measurements was created in Power BI. (View in "CODE")
 
 ------------------------------------------------------------------------------
 // Highest percentage measurement
@@ -24,21 +24,6 @@ MAXX(TopRow, '06181'[Age]) &
 " (" &
 FORMAT(MAXX(TopRow, '06181'[Percent]), "0") &
 "%)"
-
-------------------------------------------------------------------------------
-
-// Highest value measurement
-
-Highest Value = 
-VAR LatestYear = [Latest Year]
-VAR SummaryTable =
-    FILTER(
-        ALLSELECTED('06181'),
-        '06181'[Year] = LatestYear &&
-        '06181'[Age] <> "Age, total"
-    )
-RETURN
-    MAXX(SummaryTable, '06181'[Percent])
 
 ------------------------------------------------------------------------------
 
