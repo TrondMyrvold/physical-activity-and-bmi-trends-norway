@@ -1,4 +1,4 @@
-// This README shows how the DAX measurements was created in Power BI. (View in "CODE")
+// This README shows how the DAX measurements was created in Power BI. (View in "Code")
 
 ------------------------------------------------------------------------------
 // Highest percentage measurement
