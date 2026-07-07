@@ -4,7 +4,7 @@
 
 This project was created to improve my skills in data cleaning and data visualization, and to get more experience with real-world data.
 
-The objective was to explore long-term trends in physical activity and Body Mass Index (BMI) in Norway using publicly available data from Statistics Norway (SSB).
+The objective was to explore long-term trends in physical activity and Body Mass Index (BMI) in Norway using publicly available data from Statistisk sentralbyrå (SSB).
 
 The project focused on transforming a complex public dataset into an interactive Power BI dashboard through data cleaning, feature engineering, and data visualization.
 
@@ -24,7 +24,7 @@ The objectives of this project were to:
 
 # Dataset
 
-- **Source:** Statistics Norway (SSB)
+- **Source:** Statistisk sentralbyrå (SSB)
 - **Dataset:** Table 06181 – Lifestyle habits (percent), by living habit, year and age
 - **Format:** Excel (.xlsx)
 - **Data Type:** Public survey data
@@ -123,7 +123,6 @@ These measures update dynamically based on the selected lifestyle indicator.
 - The proportion of people reporting that they never exercise has declined over time.
 - Younger age groups consistently reported higher levels of physical activity.
 - BMI indicators varied considerably across age groups.
-- Interactive dashboards provide an effective way of exploring lifestyle trends over time.
 
 ---
 
@@ -147,6 +146,6 @@ Through this project I improved my experience with:
 
 This project was created as part of my learning journey in Data Analytics.
 
-The primary objective was to practice data cleaning, data transformation, DAX, and interactive dashboard development using a real-world public dataset from Statistics Norway (SSB).
+The primary objective was to practice data cleaning, data transformation, DAX, and interactive dashboard development using a real-world public dataset from Statistisk sentralbyrå (SSB).
 
 The dashboards were developed for educational and portfolio purposes and should not be interpreted as an official statistical analysis.
