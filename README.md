@@ -24,7 +24,7 @@ The objectives of this project were to:
 
 # Dataset
 
-- **Source:** Statistisk sentralbyrå (SSB)
+- **Source:** Statistisk sentralbyrå (SSB) https://www.ssb.no/en/statbank/table/06181
 - **Dataset:** Table 06181 – Lifestyle habits (percent), by living habit, year and age
 - **Format:** Excel (.xlsx)
 - **Data Type:** Public survey data
