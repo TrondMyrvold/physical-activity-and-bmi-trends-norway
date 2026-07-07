@@ -140,17 +140,7 @@ Through this project I improved my experience with:
 - Interactive Data Visualization
 - Data Storytelling
 - Working with real-world public datasets
-
----
-
-# Dashboard
-
-The repository contains:
-
-- Power BI dashboard (.pbix)
-- Cleaned dataset
-- Dashboard screenshots
-
+  
 ---
 
 # Disclaimer
