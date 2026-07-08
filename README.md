@@ -143,10 +143,12 @@ These measures update dynamically based on the selected lifestyle indicator.
 
 # Key Findings
 
-- Weekly exercise generally increased across most age groups.
-- The proportion of people reporting that they never exercise has declined over time.
-- Younger age groups consistently reported higher levels of physical activity.
-- BMI indicators varied considerably across age groups.
+- Weekly physical activity increased across most age groups between 1998 and 2025.
+- The proportion of individuals reporting that they never exercise declined over the study period.
+- Younger age groups consistently reported higher levels of regular physical activity than older adults.
+- Overweight and obesity became more prevalent across several age groups despite increasing physical activity.
+- Severe obesity (BMI ≥35) remained relatively uncommon but increased following its introduction in the survey from 2015.
+- The dashboards demonstrate that long-term health trends vary considerably across age groups and lifestyle indicators.
 
 ---
 
