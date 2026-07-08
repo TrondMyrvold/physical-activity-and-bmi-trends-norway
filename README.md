@@ -64,7 +64,7 @@ Users can:
 - Compare age groups
 - Explore long-term trends
 - View dynamic summary statistics
-- See changes over time
+- View changes over time
 
 ![Physical Activity](Images/exercise_dashboard.png)
 
@@ -80,7 +80,7 @@ Users can compare:
 - Overweight
 - Obesity
 - Age-specific trends
-- Changes over time
+- View Changes over time
 
 ![BMI Dashboard](Images/bmi_dashboard.png)
 
