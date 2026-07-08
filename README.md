@@ -64,6 +64,7 @@ Users can:
 - Compare age groups
 - Explore long-term trends
 - View dynamic summary statistics
+- See changes over time
 
 ![Physical Activity](Images/exercise_dashboard.png)
 
