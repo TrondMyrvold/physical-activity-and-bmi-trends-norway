@@ -47,6 +47,11 @@ The data preparation process included:
 - Creating category fields
 - Creating a custom Age Order column for proper visualization sorting
 
+  ## Before Datacleaing
+  ![Before Cleaning](Images/datasest_before_cleaning)
+
+  ## Cleaned Dataset
+
   ![Data Cleaning](Images/datacleaning_process.png)
 
 
