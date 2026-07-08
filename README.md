@@ -163,6 +163,7 @@ Through this project I improved my experience with:
 - DAX
 - Dashboard Design
 - Interactive Data Visualization
+- Data Storytelling
 - Working with real-world public datasets
   
 ---
